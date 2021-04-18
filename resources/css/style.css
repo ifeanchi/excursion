@@ -9,3 +9,9 @@ body {
     font-size: 50px;
     color: white;
 }
+
+.link--main {
+    font-weight: normal;
+    font-size: 16px;
+    color: aquamarine;
+}
